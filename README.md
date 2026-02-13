@@ -1,15 +1,3 @@
-Love this — a good README makes your project stand out on GitHub 👍
-Let’s make it:
-
-✅ Professional
-✅ Insightful
-✅ Fun but not childish
-✅ Portfolio-ready
-✅ Recruiter-friendly
-
-You can copy-paste this directly.
-
-⭐ README.md (Copy Below)
 🏥 ER Wait Time Analysis with Matplotlib
 📌 Project Overview
 
